@@ -28,10 +28,10 @@ void print(){
 
 
 int main(){
-add(2);
-add(3);
-add(4);
-add(5);
+add(67);
+add(34);
+add(78);
+add(99);
 print();
 
 //this is for print middle element
