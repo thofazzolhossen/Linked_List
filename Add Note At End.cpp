@@ -34,11 +34,6 @@ void add(int value){
     
 }                                                                                                  
                                                        
-    
-   
-    
-   
-
 
 void print(){
     node* tptr = head;
@@ -50,15 +45,12 @@ void print(){
     cout<<endl;
 }
 
-
 int main(){
 add(67);
 add(34);
 add(78);
 add(99);
 print();
-
-
 
 }
 
