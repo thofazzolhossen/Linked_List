@@ -58,9 +58,7 @@ add(78);
 add(99);
 print();
 
-//this is for print middle element
-int x = a.size();
-    cout<<a[x/2 -1]<<" ";
+
 
 }
 
